@@ -1,0 +1,408 @@
+===Debug Info===
+epoch: 0, iteration: 0
+[Train] loss: 3.2116562618, score: 0.1250000000
+[Dev] loss: 3.9196157086, score: 0.1216000000
+======
+===Debug Info===
+epoch: 0, iteration: 100
+[Train] loss: 2.8041111923, score: 0.3125000000
+[Dev] loss: 2.8635092722, score: 0.2348000000
+======
+===Debug Info===
+epoch: 0, iteration: 200
+[Train] loss: 2.4906865822, score: 0.2187500000
+[Dev] loss: 2.4691617269, score: 0.2308000000
+======
+===Debug Info===
+epoch: 0, iteration: 300
+[Train] loss: 2.2037185552, score: 0.3125000000
+[Dev] loss: 2.2675881194, score: 0.2551000000
+======
+===Debug Info===
+epoch: 0, iteration: 400
+[Train] loss: 2.1645130663, score: 0.2500000000
+[Dev] loss: 2.1748073429, score: 0.2887000000
+======
+===Debug Info===
+epoch: 0, iteration: 500
+[Train] loss: 2.1022715581, score: 0.2812500000
+[Dev] loss: 2.1253165535, score: 0.3123000000
+======
+===Debug Info===
+epoch: 0, iteration: 600
+[Train] loss: 2.1859858501, score: 0.2500000000
+[Dev] loss: 2.0849960920, score: 0.3438000000
+======
+===Debug Info===
+epoch: 0, iteration: 700
+[Train] loss: 1.9755117596, score: 0.3750000000
+[Dev] loss: 2.0478945767, score: 0.3627000000
+======
+Learning rate adjusted to:0.009000000000000001
+===Debug Info===
+epoch: 0, iteration: 800
+[Train] loss: 2.0836606332, score: 0.3750000000
+[Dev] loss: 2.0105652517, score: 0.3809000000
+======
+===Debug Info===
+epoch: 0, iteration: 900
+[Train] loss: 2.1141681633, score: 0.3125000000
+[Dev] loss: 1.9784997449, score: 0.4014000000
+======
+===Debug Info===
+epoch: 0, iteration: 1000
+[Train] loss: 2.1126404544, score: 0.2812500000
+[Dev] loss: 1.9489439442, score: 0.4209000000
+======
+===Debug Info===
+epoch: 0, iteration: 1100
+[Train] loss: 1.8592690122, score: 0.4687500000
+[Dev] loss: 1.9181559188, score: 0.4295000000
+======
+===Debug Info===
+epoch: 0, iteration: 1200
+[Train] loss: 1.8428964198, score: 0.5312500000
+[Dev] loss: 1.8871374383, score: 0.4468000000
+======
+===Debug Info===
+epoch: 0, iteration: 1300
+[Train] loss: 1.8506401680, score: 0.4062500000
+[Dev] loss: 1.8585585835, score: 0.4556000000
+======
+===Debug Info===
+epoch: 0, iteration: 1400
+[Train] loss: 1.8154716989, score: 0.5312500000
+[Dev] loss: 1.8304059525, score: 0.4843000000
+======
+===Debug Info===
+epoch: 0, iteration: 1500
+[Train] loss: 1.8052552033, score: 0.4687500000
+[Dev] loss: 1.8015456567, score: 0.4816000000
+======
+best accuracy performence has been updated: 0.00000 --> 0.49090
+===Debug Info===
+epoch: 1, iteration: 0
+[Train] loss: 1.8070125692, score: 0.4687500000
+[Dev] loss: 1.7842146922, score: 0.4902000000
+======
+===Debug Info===
+epoch: 1, iteration: 100
+[Train] loss: 1.8070911871, score: 0.4062500000
+[Dev] loss: 1.7594509817, score: 0.5161000000
+======
+===Debug Info===
+epoch: 1, iteration: 200
+[Train] loss: 1.6726632336, score: 0.5937500000
+[Dev] loss: 1.7306042994, score: 0.5295000000
+======
+===Debug Info===
+epoch: 1, iteration: 300
+[Train] loss: 1.9970176630, score: 0.2187500000
+[Dev] loss: 1.7058884362, score: 0.5421000000
+======
+===Debug Info===
+epoch: 1, iteration: 400
+[Train] loss: 1.7793007422, score: 0.5000000000
+[Dev] loss: 1.6804773437, score: 0.5539000000
+======
+===Debug Info===
+epoch: 1, iteration: 500
+[Train] loss: 1.4864177743, score: 0.6250000000
+[Dev] loss: 1.6573183393, score: 0.5653000000
+======
+===Debug Info===
+epoch: 1, iteration: 600
+[Train] loss: 1.7357464464, score: 0.5937500000
+[Dev] loss: 1.6333345094, score: 0.5848000000
+======
+===Debug Info===
+epoch: 1, iteration: 700
+[Train] loss: 1.4302823988, score: 0.7812500000
+[Dev] loss: 1.6101687654, score: 0.5876000000
+======
+===Debug Info===
+epoch: 1, iteration: 800
+[Train] loss: 1.6703221381, score: 0.5000000000
+[Dev] loss: 1.5876852609, score: 0.5913000000
+======
+Learning rate adjusted to:0.008100000000000001
+===Debug Info===
+epoch: 1, iteration: 900
+[Train] loss: 1.7569286747, score: 0.5312500000
+[Dev] loss: 1.5674311232, score: 0.6089000000
+======
+===Debug Info===
+epoch: 1, iteration: 1000
+[Train] loss: 1.6510685608, score: 0.5000000000
+[Dev] loss: 1.5479845039, score: 0.6216000000
+======
+===Debug Info===
+epoch: 1, iteration: 1100
+[Train] loss: 1.5184820056, score: 0.5937500000
+[Dev] loss: 1.5289757104, score: 0.6288000000
+======
+===Debug Info===
+epoch: 1, iteration: 1200
+[Train] loss: 1.4485007829, score: 0.6250000000
+[Dev] loss: 1.5119988735, score: 0.6289000000
+======
+===Debug Info===
+epoch: 1, iteration: 1300
+[Train] loss: 1.3156331148, score: 0.7812500000
+[Dev] loss: 1.4925004483, score: 0.6454000000
+======
+===Debug Info===
+epoch: 1, iteration: 1400
+[Train] loss: 1.4545504854, score: 0.5937500000
+[Dev] loss: 1.4755710371, score: 0.6505000000
+======
+===Debug Info===
+epoch: 1, iteration: 1500
+[Train] loss: 1.5064797692, score: 0.6562500000
+[Dev] loss: 1.4575550368, score: 0.6620000000
+======
+best accuracy performence has been updated: 0.49090 --> 0.66570
+===Debug Info===
+epoch: 2, iteration: 0
+[Train] loss: 1.4311628026, score: 0.7187500000
+[Dev] loss: 1.4474125682, score: 0.6656000000
+======
+===Debug Info===
+epoch: 2, iteration: 100
+[Train] loss: 1.4789221192, score: 0.6875000000
+[Dev] loss: 1.4306833014, score: 0.6648000000
+======
+===Debug Info===
+epoch: 2, iteration: 200
+[Train] loss: 1.3104173176, score: 0.6875000000
+[Dev] loss: 1.4137869029, score: 0.6761000000
+======
+===Debug Info===
+epoch: 2, iteration: 300
+[Train] loss: 1.3206927121, score: 0.7812500000
+[Dev] loss: 1.3976633819, score: 0.6886000000
+======
+===Debug Info===
+epoch: 2, iteration: 400
+[Train] loss: 1.4385140971, score: 0.6875000000
+[Dev] loss: 1.3825197097, score: 0.6955000000
+======
+===Debug Info===
+epoch: 2, iteration: 500
+[Train] loss: 1.4387612741, score: 0.7187500000
+[Dev] loss: 1.3678865935, score: 0.7013000000
+======
+===Debug Info===
+epoch: 2, iteration: 600
+[Train] loss: 1.3793260113, score: 0.6875000000
+[Dev] loss: 1.3522835179, score: 0.7026000000
+======
+===Debug Info===
+epoch: 2, iteration: 700
+[Train] loss: 1.4677718286, score: 0.5937500000
+[Dev] loss: 1.3392462642, score: 0.7017000000
+======
+===Debug Info===
+epoch: 2, iteration: 800
+[Train] loss: 1.1708986373, score: 0.8125000000
+[Dev] loss: 1.3231941595, score: 0.7072000000
+======
+Learning rate adjusted to:0.007290000000000001
+===Debug Info===
+epoch: 2, iteration: 900
+[Train] loss: 1.3723932889, score: 0.7187500000
+[Dev] loss: 1.3093963861, score: 0.7071000000
+======
+===Debug Info===
+epoch: 2, iteration: 1000
+[Train] loss: 1.3721073742, score: 0.6562500000
+[Dev] loss: 1.2972093366, score: 0.7136000000
+======
+===Debug Info===
+epoch: 2, iteration: 1100
+[Train] loss: 1.3490104876, score: 0.6562500000
+[Dev] loss: 1.2847275290, score: 0.7268000000
+======
+===Debug Info===
+epoch: 2, iteration: 1200
+[Train] loss: 1.3461806281, score: 0.7812500000
+[Dev] loss: 1.2737829025, score: 0.7223000000
+======
+===Debug Info===
+epoch: 2, iteration: 1300
+[Train] loss: 1.0216449745, score: 0.8437500000
+[Dev] loss: 1.2615915896, score: 0.7250000000
+======
+===Debug Info===
+epoch: 2, iteration: 1400
+[Train] loss: 1.2792657341, score: 0.6875000000
+[Dev] loss: 1.2503556205, score: 0.7280000000
+======
+===Debug Info===
+epoch: 2, iteration: 1500
+[Train] loss: 1.2090493646, score: 0.7812500000
+[Dev] loss: 1.2387659951, score: 0.7330000000
+======
+best accuracy performence has been updated: 0.66570 --> 0.73710
+===Debug Info===
+epoch: 3, iteration: 0
+[Train] loss: 1.2211050754, score: 0.7812500000
+[Dev] loss: 1.2312005562, score: 0.7380000000
+======
+===Debug Info===
+epoch: 3, iteration: 100
+[Train] loss: 1.2071486775, score: 0.7500000000
+[Dev] loss: 1.2202028237, score: 0.7403000000
+======
+===Debug Info===
+epoch: 3, iteration: 200
+[Train] loss: 1.1409277818, score: 0.7812500000
+[Dev] loss: 1.2100115099, score: 0.7441000000
+======
+===Debug Info===
+epoch: 3, iteration: 300
+[Train] loss: 1.3168184851, score: 0.7500000000
+[Dev] loss: 1.1992322845, score: 0.7470000000
+======
+===Debug Info===
+epoch: 3, iteration: 400
+[Train] loss: 1.2204043316, score: 0.7812500000
+[Dev] loss: 1.1890899954, score: 0.7491000000
+======
+===Debug Info===
+epoch: 3, iteration: 500
+[Train] loss: 1.0493163502, score: 0.8125000000
+[Dev] loss: 1.1779571011, score: 0.7549000000
+======
+===Debug Info===
+epoch: 3, iteration: 600
+[Train] loss: 1.2685789137, score: 0.6250000000
+[Dev] loss: 1.1678735527, score: 0.7543000000
+======
+===Debug Info===
+epoch: 3, iteration: 700
+[Train] loss: 1.1893292048, score: 0.6875000000
+[Dev] loss: 1.1582635931, score: 0.7571000000
+======
+===Debug Info===
+epoch: 3, iteration: 800
+[Train] loss: 1.2613054007, score: 0.7187500000
+[Dev] loss: 1.1483563275, score: 0.7583000000
+======
+===Debug Info===
+epoch: 3, iteration: 900
+[Train] loss: 1.1879119660, score: 0.7500000000
+[Dev] loss: 1.1390769977, score: 0.7601000000
+======
+===Debug Info===
+epoch: 3, iteration: 1000
+[Train] loss: 0.9852868755, score: 0.8125000000
+[Dev] loss: 1.1299557233, score: 0.7625000000
+======
+===Debug Info===
+epoch: 3, iteration: 1100
+[Train] loss: 0.9957656801, score: 0.8437500000
+[Dev] loss: 1.1205450661, score: 0.7617000000
+======
+===Debug Info===
+epoch: 3, iteration: 1200
+[Train] loss: 1.0365788748, score: 0.8437500000
+[Dev] loss: 1.1114955580, score: 0.7672000000
+======
+===Debug Info===
+epoch: 3, iteration: 1300
+[Train] loss: 1.1469059785, score: 0.7812500000
+[Dev] loss: 1.1023979460, score: 0.7688000000
+======
+===Debug Info===
+epoch: 3, iteration: 1400
+[Train] loss: 1.1297859778, score: 0.7500000000
+[Dev] loss: 1.0935370888, score: 0.7720000000
+======
+===Debug Info===
+epoch: 3, iteration: 1500
+[Train] loss: 1.1319999804, score: 0.7187500000
+[Dev] loss: 1.0858361270, score: 0.7708000000
+======
+best accuracy performence has been updated: 0.73710 --> 0.77190
+===Debug Info===
+epoch: 4, iteration: 0
+[Train] loss: 1.2554499784, score: 0.7812500000
+[Dev] loss: 1.0796639102, score: 0.7722000000
+======
+===Debug Info===
+epoch: 4, iteration: 100
+[Train] loss: 1.2057770943, score: 0.7500000000
+[Dev] loss: 1.0717783317, score: 0.7756000000
+======
+===Debug Info===
+epoch: 4, iteration: 200
+[Train] loss: 1.1585902911, score: 0.6562500000
+[Dev] loss: 1.0642423020, score: 0.7764000000
+======
+===Debug Info===
+epoch: 4, iteration: 300
+[Train] loss: 1.2564917509, score: 0.7500000000
+[Dev] loss: 1.0555826069, score: 0.7811000000
+======
+===Debug Info===
+epoch: 4, iteration: 400
+[Train] loss: 1.0511184656, score: 0.7812500000
+[Dev] loss: 1.0475619894, score: 0.7813000000
+======
+===Debug Info===
+epoch: 4, iteration: 500
+[Train] loss: 1.0357837963, score: 0.8437500000
+[Dev] loss: 1.0397262168, score: 0.7825000000
+======
+===Debug Info===
+epoch: 4, iteration: 600
+[Train] loss: 1.2080150802, score: 0.6875000000
+[Dev] loss: 1.0320561072, score: 0.7835000000
+======
+===Debug Info===
+epoch: 4, iteration: 700
+[Train] loss: 1.0218870164, score: 0.7500000000
+[Dev] loss: 1.0258384621, score: 0.7836000000
+======
+===Debug Info===
+epoch: 4, iteration: 800
+[Train] loss: 1.1122778290, score: 0.7500000000
+[Dev] loss: 1.0182701742, score: 0.7826000000
+======
+===Debug Info===
+epoch: 4, iteration: 900
+[Train] loss: 1.0568643997, score: 0.7812500000
+[Dev] loss: 1.0107860433, score: 0.7844000000
+======
+===Debug Info===
+epoch: 4, iteration: 1000
+[Train] loss: 1.1765890975, score: 0.7500000000
+[Dev] loss: 1.0037170879, score: 0.7882000000
+======
+===Debug Info===
+epoch: 4, iteration: 1100
+[Train] loss: 1.0362412559, score: 0.6875000000
+[Dev] loss: 0.9968461586, score: 0.7893000000
+======
+===Debug Info===
+epoch: 4, iteration: 1200
+[Train] loss: 1.0109559981, score: 0.7812500000
+[Dev] loss: 0.9900545372, score: 0.7938000000
+======
+===Debug Info===
+epoch: 4, iteration: 1300
+[Train] loss: 1.0517967229, score: 0.8437500000
+[Dev] loss: 0.9831903538, score: 0.7951000000
+======
+===Debug Info===
+epoch: 4, iteration: 1400
+[Train] loss: 1.1489606111, score: 0.7187500000
+[Dev] loss: 0.9767190007, score: 0.7919000000
+======
+===Debug Info===
+epoch: 4, iteration: 1500
+[Train] loss: 0.9506725172, score: 0.8750000000
+[Dev] loss: 0.9708368000, score: 0.7938000000
+======
+best accuracy performence has been updated: 0.77190 --> 0.79360
